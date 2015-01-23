@@ -5,7 +5,7 @@ My lab is a rhythm game reminiscent of the game of Guitar Hero. It uses a SNES c
 
 **User Guide:**
 
-**-Rules: **
+**-Rules:**
 
 The level is 60 seconds long and your score begins at 10 points.
 For every correct arrow combination that is input from the controller you will receive 2 
@@ -30,7 +30,7 @@ Start button: Is used to start the game
 -LCM-S01602DTR/M
 
 
-**Demo Video Link: **
+**Demo Video Link:**
 
 http://youtu.be/yDwu2wxXmJE
 
